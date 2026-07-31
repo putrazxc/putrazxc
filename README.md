@@ -70,17 +70,6 @@
 
 <br/>
 
-<!--
-  GitHub stats — ganti YOUR_GITHUB_USERNAME dengan username GitHub kamu
-  supaya card ini otomatis kepasang dan ter-update.
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=90&section=footer&fontSize=0"/>
 </div>
