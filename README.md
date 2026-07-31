@@ -36,16 +36,6 @@
 
 <br/>
 
-## About Me
-
-- 💼 Founder of **[YourGams](https://yourgams.my.id)** — a software house delivering web development, CRM, ERP, and AI solutions
-- 🎥 Currently building **doran-cctv**, a multi-component CCTV monitoring & management platform (React + FastAPI, streaming via nginx/MediaMTX/FFmpeg)
-- 🎨 I care about clean, intentional UI — flat editorial design systems and enterprise NOC-style dashboards
-- 🌱 Always exploring better architecture patterns for real-time systems and role-based access control
-- 📫 Reach me on LinkedIn or Instagram below
-
-<br/>
-
 ## Connect
 
 <p align="center">
