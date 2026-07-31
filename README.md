@@ -38,7 +38,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,react,flutter,laravel,cs,dotnet,js,html,css,tailwind,php,mysql,postgres,git,figma,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,react,flutter,laravel,cs,dotnet,js,html,css,tailwind,php,mysql,postgres,git,figma,linux&perline=17" />
 </p>
 
 <br/>
