@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/yourprofile" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" height="24"/>
   </a>
-  <a href="https://instagram.com/a.nggadwk_" target="blank">
+  <a href="https://www.instagram.com/ptrgama_/" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" height="24"/>
   </a>
 </p>
