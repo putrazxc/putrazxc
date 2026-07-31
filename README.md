@@ -1,21 +1,6 @@
-<!--
-  README profil GitHub — Putra Gama Supriyadi
-  Catatan soal cover:
-  Link Google Drive sudah dikonversi ke format "uc?export=view" di bawah,
-  tapi Drive kadang memblokir hotlink dari luar (muncul halaman
-  "quota exceeded" bukan gambarnya). Kalau itu terjadi, cara paling stabil:
-  1. Download gambarnya dari Drive
-  2. Upload ke repo profil ini, misal di folder assets/cover.png
-  3. Ganti src di bawah jadi:
-     https://raw.githubusercontent.com/<username>/<username>/main/assets/cover.png
--->
-
 <div align="center">
 
-<!-- Cover image (Google Drive — lihat catatan stabilitas di atas) -->
-<img src="https://drive.google.com/uc?export=view&id=1Ko_XVfrY84Q4GTXwPea_WMEtESwygzAB" width="100%" alt="Cover" />
-
-<br/><br/>
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Putra+Gama+Supriyadi;Full+Stack+Developer;Building+Web%2C+CRM%2C+ERP+%26+AI+Solutions" alt="Typing SVG" />
