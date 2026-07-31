@@ -1,7 +1,5 @@
 <!-- Minimalist Header -->
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1uJIZqpqC6XsrH8GtPIPGRWlIdKF_Jm8y" alt="Header" style="border-radius: 10px; max-width: 100%;"/>
-  
   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&width=500&lines=Hi,+I'm+Putra+Gama+Supriyadi;Full+Stack+Developer" alt="Typing SVG" />
@@ -9,7 +7,7 @@
   </h1>
   
   <p align="center" style="color: #64748b;">
-    Crafting clean, efficient solutions through code
+    "What is meant for you will never miss you, and what misses you was never meant for you."
   </p>
   
   <!-- Minimal divider -->
