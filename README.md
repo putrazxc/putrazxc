@@ -17,7 +17,7 @@
 <!-- Minimal Connect Section -->
 <h2 align="center" style="color: #0ea5e9;">Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="https://www.linkedin.com/in/putragama/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" height="24"/>
   </a>
   <a href="https://www.instagram.com/ptrgama_/" target="blank">
