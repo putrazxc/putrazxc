@@ -3,12 +3,13 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Putra+Gama+Supriyadi;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Putra+Gama+Supriyadi;Backend+%26+Frontend+Web+Developer;%2B+CCTV+System+with+YOLO26" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Software%20House-YourGams-38BDF8?style=flat-square" alt="YourGams"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20CCTV%20Systems-0ea5e9?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Frontend%20Web%20Developer-0ea5e9?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Extra-CCTV%20System%20%7C%20YOLO26-0284c7?style=flat-square" alt="CCTV System"/>
 </p>
 
 <p style="color: #64748b;">
